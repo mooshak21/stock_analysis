@@ -4,7 +4,9 @@
 <p>Steve has recently graduated with a degree in finance and really wants learn about more stocks in the market. Since his parents are invested in Daqo, he wanted to create an even more in-depth analyzation of the Daily Volume of different stocks in the market, but with more of a focus on optimization. We will also only be focusing on data from 2017-2018.</p>
 
 ### Purpose
+
 Steve's main focus for our task is to modify what we have already created for him throughout the module, but to refactor the code to make it more efficient, as we will be looking at more data. Using different techniques we will see if we can make the runtime of the program faster by emplying different coding concepts. 
+
 ---
 
 ## Results
