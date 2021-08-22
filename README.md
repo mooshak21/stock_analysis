@@ -1,14 +1,14 @@
 # Stock Analysis 
 
 ## Overview of Project
-<p>Steve has recently graduated with a degree in finance and really wants learn about more stocks in the market. Since his parents are invested in Daqo, he wanted to create an even more in-depth analyzation of the Daily Volume of different stocks in the market, but with more of a focus on optimization. We will also only be focusing on data from 207-2018.</p>
+<p>Steve has recently graduated with a degree in finance and really wants learn about more stocks in the market. Since his parents are invested in Daqo, he wanted to create an even more in-depth analyzation of the Daily Volume of different stocks in the market, but with more of a focus on optimization. We will also only be focusing on data from 2017-2018.</p>
 
 ### Purpose
 Steve's main focus for our task is to modify what we have already created for him throughout the module, but to refactor the code to make it more efficient, as we will be looking at more data. Using different techniques we will see if we can make the runtime of the program faster by emplying different coding concepts. 
 
 ## Results
 
-**Refactored VBA Code**
+### **Refactored VBA Code**
 
     Sub AllStocksAnalysisRefactored()
         Dim startTime As Single
@@ -121,10 +121,17 @@ Steve's main focus for our task is to modify what we have already created for hi
     endTime = Timer
     MsgBox "This code ran in " & (endTime - startTime) & " seconds for the year " & (yearValue)
 
-End Sub
+    End Sub
 
-![outcomesVlaunch](https://github.com/mooshak21/kickstarter-analysis/blob/main/Resources/OutcomesLaunchPivot.png)
-![outcomesVlaunch](https://github.com/mooshak21/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png "Theater Outcomes vs. Launch Date")
+---
+### Comparing the runtime of the refactored and original code
+---
+
+#### **Refactored Runtime:**
+![outcomesVlaunch](https://github.com/mooshak21/stock-analysis/blob/main/Resources/NVBA_Challenge_2017.png)
+
+#### **Original Runtime:**
+![outcomesVlaunch](https://github.com/mooshak21/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 ### Analysis of Outcomes Based on Goals
 <p>We can conclude that having a fundraising goal of $35K-40K is around the max amount that would work. We can conclude this because the chart plateaus in that range and then sharply decreases in regards to percentage successful. Based on my data, the highest success rates occur in the <$1000 and $1000-$4999 ranges with 74% and 70% success rates, respectively. The price range from $40000-$44999 provides a 63% success rate as well, but there are only 8 entries within that range, so that might not be the best place to look.</p>
