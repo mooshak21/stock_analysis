@@ -159,4 +159,5 @@ Steve's main focus for our task is to modify what we have already created for hi
 ## Summary
 ### Advantages/Disadvantages of Refactoring Code
 #### Advantages
-1. 
+1. Refactoring code in any language can help decrease its complexity and in turn increase its efficiency. This allows users to create programs that can run faster on larger data sets. For example, when I was in college we could complete a function in O(n^2) time but to improve it you could complete an action within the same loop instead of using another loop making the function run in O(n) time. 
+2. It can make the code more readable. Like my example above, there are many ways to change code for the better, by using less lines and allowing the reader to easily digest it. If someone were to write something in 100 lines but it could be written in 50, that would make it much easier to read.
