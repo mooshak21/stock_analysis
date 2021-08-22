@@ -142,7 +142,7 @@ Steve's main focus for our task is to modify what we have already created for hi
 **Significance of these results:**
 >We can clearly see a difference between the original code runtime and the refactored code runtime based on these images. For 2017, the approximate runtime for the refactored and original code were **0.059** sec and **0.477** respectively. This means the refactored code was approximately **8.1 times faster**. For 2018, the approximate runtime for the refactored and original code were **0.059** sec and **0.480** respectively. This means the refactored code was approximately **8.2 times faster**. This gives us great insight on the advantages of the new version of the vba code because if we were to translate this to a large scale of analyzing company in the market, it would be much more useful to use this!
 
-
+---
 ### **Performace chart comparison:**
 ---
 
@@ -151,5 +151,7 @@ Steve's main focus for our task is to modify what we have already created for hi
 #### **Performace chart (2018):**
 ![outcomesVlaunch](https://github.com/mooshak21/stock_analysis/blob/main/Resources/Stock_Value_2018.png)
 
+**Analysis of the charts**
+>I will be looking closely at the DQ ticker as that is the stock that we want to focus on for Steve. In 2017, DQ had an amazing year with 199.4% return which is outstanding and is the highest of the group of stocks we were looking at. However, in 2018 that was not the case. DQ had a worse year with -62.6% return. One thing to keep in mind is that the daily total volume increase by about 3 times its value in 2017. This is something Steve can look at to see how popular the stock was and how drastically it grew in only 1 year.
 
 
