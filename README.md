@@ -151,7 +151,9 @@ Steve's main focus for our task is to modify what we have already created for hi
 #### **Performace chart (2018):**
 ![outcomesVlaunch](https://github.com/mooshak21/stock_analysis/blob/main/Resources/Stock_Value_2018.png)
 
-**Analysis of the charts**
+**Analysis of the charts:**
 >I will be looking closely at the DQ ticker as that is the stock that we want to focus on for Steve. In 2017, DQ had an amazing year with 199.4% return which is outstanding and is the highest of the group of stocks we were looking at. However, in 2018 that was not the case. DQ had a worse year with -62.6% return. One thing to keep in mind is that the daily total volume increase by about 3 times its value in 2017. This is something Steve can look at to see how popular the stock was and how drastically it grew in only 1 year.
 
+---
 
+## Summary
