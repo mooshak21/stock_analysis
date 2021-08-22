@@ -58,9 +58,9 @@ Steve's main focus for our task is to modify what we have already created for hi
         tickerIndex = 0
 
         '1b) Create three output arrays
-        ReDim tickerVolumes(12) As Long
-        ReDim tickerStartingPrices(12) As Single
-        ReDim tickerEndingPrices(12) As Single
+        Dim tickerVolumes(12) As Long
+        Dim tickerStartingPrices(12) As Single
+        Dim tickerEndingPrices(12) As Single
     
         ''2a) Create a for loop to initialize the tickerVolumes to zero.
         For i = 0 To 11
@@ -170,3 +170,7 @@ Steve's main focus for our task is to modify what we have already created for hi
 #### Advantages
 1. We were able to get faster runtime. As we concluded in the results and analysis, the refactored version was around 8 times faster than the original. This makes the process less intensive on our computer and easier to run. 
 2. We had to write less code in the long run and the code was written in a more efficient way. Using loops rather than hard-coding things is always the better option. 
+
+#### Disadvantages
+1. Personally, it just took more time understanding the new procedure we were performing in the new code. It takes time and hands-on-experience to get better at using different funtions/methods/macros. 
+2. Overall, since the dataset was small, making the code more efficient wasn't really necessary because the processes were too intensive anyways.
