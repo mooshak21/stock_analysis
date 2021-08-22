@@ -146,9 +146,9 @@ Steve's main focus for our task is to modify what we have already created for hi
 ### **Performace chart comparison:**
 ---
 
-#### **Performace chart comparison (2017):**
+#### **Performace chart (2017):**
 ![outcomesVlaunch](https://github.com/mooshak21/stock_analysis/blob/main/Resources/Stock_Value_2017.png)
-#### **Performace chart comparison (2018):**
+#### **Performace chart (2018):**
 ![outcomesVlaunch](https://github.com/mooshak21/stock_analysis/blob/main/Resources/Stock_Value_2018.png)
 
 
