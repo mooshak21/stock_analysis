@@ -128,7 +128,7 @@ Steve's main focus for our task is to modify what we have already created for hi
 ---
 
 #### **Refactored Runtime:**
-![outcomesVlaunch](https://github.com/mooshak21/stock-analysis/blob/main/Resources/NVBA_Challenge_2017.png)
+![outcomesVlaunch](https://github.com/mooshak21/stock-analysis/blob/main/Resources/NVBA_Challenge_2017.png?raw=true)
 
 #### **Original Runtime:**
 ![outcomesVlaunch](https://github.com/mooshak21/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
