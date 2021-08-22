@@ -127,7 +127,7 @@ Steve's main focus for our task is to modify what we have already created for hi
     End Sub
 
 ---
-### Comparing the runtime of the refactored and original code
+### **Comparing the runtime of the refactored and original code**
 ---
 
 #### **Refactored Runtime (2017):**
@@ -146,16 +146,11 @@ Steve's main focus for our task is to modify what we have already created for hi
 >We can clearly see a difference between the original code runtime and the refactored code runtime based on these images. For 2017, the approximate runtime for the refactored and original code were **0.059** sec and **0.477** respectively. This means the refactored code was approximately **8.1 times faster**. For 2018, the approximate runtime for the refactored and original code were **0.059** sec and **0.480** respectively. This means the refactored code was approximately **8.2 times faster**. This gives us great insight on the advantages of the new version of the vba code because if we were to translate this to a large scale of analyzing company in the market, it would be much more useful to use this!
 
 ---
-Comparing the 
+### **Chart comparison:**
+---
 
-### Analysis of Outcomes Based on Goals
-<p>We can conclude that having a fundraising goal of $35K-40K is around the max amount that would work. We can conclude this because the chart plateaus in that range and then sharply decreases in regards to percentage successful. Based on my data, the highest success rates occur in the <$1000 and $1000-$4999 ranges with 74% and 70% success rates, respectively. The price range from $40000-$44999 provides a 63% success rate as well, but there are only 8 entries within that range, so that might not be the best place to look.</p>
-  
+![outcomesVlaunch](https://github.com/mooshak21/stock_analysis/blob/main/Resources/Stock_Value_2017.png)
+![outcomesVlaunch](https://github.com/mooshak21/stock_analysis/blob/main/Resources/Stock_Value_2018.png)
 
 
-### Challenges and Difficulties Encountered
-<p>No Real challenges on my end. I feel like the instructions were very clear and made the process much easier. All I had to look up was the function:<br>
-COUNTIF - https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842</p>
-
-## Results
 
