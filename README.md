@@ -157,3 +157,6 @@ Steve's main focus for our task is to modify what we have already created for hi
 ---
 
 ## Summary
+### Advantages/Disadvantages of Refactoring Code
+#### Advantages
+1. 
