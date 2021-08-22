@@ -142,7 +142,7 @@ Steve's main focus for our task is to modify what we have already created for hi
 **Significance of these results:**
 >We can clearly see a difference between the original code runtime and the refactored code runtime based on these images. For 2017, the approximate runtime for the refactored and original code were **0.059** sec and **0.477** respectively. This means the refactored code was approximately **8.1 times faster**. For 2018, the approximate runtime for the refactored and original code were **0.059** sec and **0.480** respectively. This means the refactored code was approximately **8.2 times faster**. This gives us great insight on the advantages of the new version of the vba code because if we were to translate this to a large scale of analyzing company in the market, it would be much more useful to use this!
 
----
+
 ### **Performace chart comparison:**
 ---
 
