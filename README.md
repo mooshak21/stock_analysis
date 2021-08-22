@@ -5,7 +5,7 @@
 
 ### Purpose
 
-Steve's main focus for our task is to modify what we have already created for him throughout the module, but to refactor the code to make it more efficient, as we will be looking at more data. Using different techniques we will see if we can make the runtime of the program faster by emplying different coding concepts. 
+Steve's main focus for our task is to modify what we have already created for him throughout the module, but to refactor the code to make it more efficient, as we will be looking at more data. Using different techniques we will see if we can make the runtime of the program faster by employing different coding concepts. 
 
 ---
 
