@@ -9,6 +9,7 @@ Steve's main focus for our task is to modify what we have already created for hi
 ## Results
 
 **Refactored VBA Code**
+
 Sub AllStocksAnalysisRefactored()
     Dim startTime As Single
     Dim endTime  As Single
