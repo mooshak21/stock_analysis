@@ -161,3 +161,12 @@ Steve's main focus for our task is to modify what we have already created for hi
 #### Advantages
 1. Refactoring code in any language can help decrease its complexity and in turn increase its efficiency. This allows users to create programs that can run faster on larger data sets. For example, when I was in college we could complete a function in O(n^2) time but to improve it you could complete an action within the same loop instead of using another loop making the function run in O(n) time. 
 2. It can make the code more readable. Like my example above, there are many ways to change code for the better, by using less lines and allowing the reader to easily digest it. If someone were to write something in 100 lines but it could be written in 50, that would make it much easier to read.
+
+#### Disadvantages
+1. Simplicity of code can be a disadvantage. When someone is first starting to code, it is most likely that they will be writing code that runs slower with more lines; however, they are usually writing the code in an easier way rather than using methods they haven't learned yet or that are more difficult. Refactoring code is this sense can be more difficult to understand for more people. 
+2. Refactoring code can be more time consuming. Because you usually want to refactor code to make it run faster, there might be more time involved in the planning process on how you want execute it. Researching better functions/methods/macros to use can take a longer amount of time than using an easier approach. 
+
+### Advantages/Disadvantages of our refactored & original VBA script
+#### Advantages
+1. We were able to get faster runtime. As we concluded in the results and analysis, the refactored version was around 8 times faster than the original. This makes the process less intensive on our computer and easier to run. 
+2. We had to write less code in the long run and the code was written in a more efficient way. Using loops rather than hard-coding things is always the better option. 
